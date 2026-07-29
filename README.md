@@ -2,7 +2,7 @@
 
 Data Analyst | Statistics Postgraduate | Data Science & AI Enthusiast
 
-I am a postgraduate student in Statistics with a strong interest in Data Analytics, Data Science, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights through statistical analysis, SQL, Python, and interactive dashboards.
+I am a postgraduate in Statistics with a strong interest in Data Analytics, Data Science, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights through statistical analysis, SQL, Python, and interactive dashboards.
 
 Currently building hands-on experience in Excel, SQL, Python, Power BI, Statistics, Machine Learning, and Data Visualization through practical projects and real-world business problems.
 
