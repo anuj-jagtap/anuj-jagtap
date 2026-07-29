@@ -1,6 +1,6 @@
 ## Hi, I'm Anuj Jagtap 👋
 
-Data Analyst | Statistics Postgraduate | Data Science & AI Enthusiast
+Data Analyst | Statistics Postgraduate | Data Science & AI Enthusiast | 
 Professional Certification of Data Science & AI at Intellipaat (IHUB IIT Roorkee)
 
 I am a postgraduate in Statistics with a strong interest in Data Analytics, Data Science, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights through statistical analysis, SQL, Python, and interactive dashboards.
